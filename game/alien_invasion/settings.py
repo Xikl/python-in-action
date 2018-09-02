@@ -15,3 +15,13 @@ class Settings():
         """每次循环的时候最多移动的距离 1.5像素"""
         self.ship_speed_factor = 1.5
 
+        """子弹设置 宽三个像素 高15个像素 深灰色的子弹"""
+        self.bullet_speed_factor = 1
+        self.bullet_width = 3
+        self.bullet_height = 15
+        self.bullet_color = 60, 60, 60
+
+
+
+
+
