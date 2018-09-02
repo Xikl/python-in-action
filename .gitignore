@@ -94,7 +94,7 @@ venv.bak/
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope project settingsK
 .ropeproject
 
 # mkdocs documentation
@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.ipr
