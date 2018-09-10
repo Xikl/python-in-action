@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from game.alien_invasion.Bullet import Bullet
+from game.alien_invasion.bullet import Bullet
 
 __author__ = '朱文赵'
 
